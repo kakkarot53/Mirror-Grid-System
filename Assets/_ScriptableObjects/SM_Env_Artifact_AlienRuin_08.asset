@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bc4924672562644796d139d592d852f, type: 3}
+  m_Name: SM_Env_Artifact_AlienRuin_08
+  m_EditorClassIdentifier: 
+  prefabToSpawn: {fileID: 1448407537989200, guid: 35e1ebbef1e711a4b86179f6b1fbce78, type: 3}
+  spriteToSpawn: {fileID: 21300000, guid: 0bedb0aa2e85b724c8b08ebd34f91de2, type: 3}

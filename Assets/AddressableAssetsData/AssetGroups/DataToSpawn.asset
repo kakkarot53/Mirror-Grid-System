@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: DataToSpawn
+  m_EditorClassIdentifier: 
+  m_GroupName: DataToSpawn
+  m_GUID: db1e88d3775ee6e4da9da0bbd68fe281
+  m_SerializeEntries:
+  - m_GUID: 056de08374993dc489ecded5e3540880
+    m_Address: Assets/_ScriptableObjects/SM_Env_Artifact_AlienRuin_10.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DataToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 073edc4cc19ecdb45bd74773adabbedd
+    m_Address: Assets/_ScriptableObjects/SM_Env_Artifact_AlienRuin_08.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DataToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bb4ab0485bb7084983401e487604cf4
+    m_Address: Assets/_ScriptableObjects/SM_Env_Artifact_AlienRuin_01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DataToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28165597f0ee8b84c9342123ae2d2e77
+    m_Address: Assets/_ScriptableObjects/SM_Env_Artifact_AlienRuin_03.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DataToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55838bc99232ca645bed86163f319a32
+    m_Address: Assets/_ScriptableObjects/SM_Env_Artifact_AlienRuin_06.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DataToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 780f324e9d844de4c82714376c2e67ae
+    m_Address: Assets/_ScriptableObjects/SM_Env_Artifact_AlienRuin_07.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DataToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a49e460741e4b6b4381f25f3d1ce539b
+    m_Address: Assets/_ScriptableObjects/SM_Env_Artifact_AlienRuin_09.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DataToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e40f714ef8d9b6b4baa4f7ee27f329b3
+    m_Address: Assets/_ScriptableObjects/SM_Env_Artifact_AlienRuin_04.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DataToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5424855e02d565448b444013aa5d473
+    m_Address: Assets/_ScriptableObjects/SM_Env_Artifact_AlienRuin_05.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DataToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5f955176c256d5428b1e52c221e9a43
+    m_Address: Assets/_ScriptableObjects/SM_Env_Artifact_AlienRuin_02.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DataToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e00526faaeb5c624998badb5ee8ee65f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 09dd41021e9d14f489152192f3e9d61c, type: 2}
+    - {fileID: 11400000, guid: cf572c624349af346bcc4a0d0d23b935, type: 2}

@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PrefabToSpawn
+  m_EditorClassIdentifier: 
+  m_GroupName: PrefabToSpawn
+  m_GUID: 5d756e07b41c9304eb19f9d67d37c25b
+  m_SerializeEntries:
+  - m_GUID: 06f0f9e7b22a96b4f94b1198c95d5767
+    m_Address: Assets/_prefabs/SpawnablePrefabs/SM_Env_Artifact_AlienRuin_03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PrefabToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07cf3d891c0f48040ae609064006061f
+    m_Address: Assets/_prefabs/SpawnablePrefabs/SM_Env_Artifact_AlienRuin_07.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PrefabToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2735cbe541e99d246b67c160207776f8
+    m_Address: Assets/_prefabs/SpawnablePrefabs/SM_Env_Artifact_AlienRuin_04.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PrefabToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35e1ebbef1e711a4b86179f6b1fbce78
+    m_Address: Assets/_prefabs/SpawnablePrefabs/SM_Env_Artifact_AlienRuin_08.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PrefabToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4024cb88c6496ee40b458062c0362fda
+    m_Address: Assets/_prefabs/SpawnablePrefabs/SM_Env_Artifact_AlienRuin_10.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PrefabToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81efda32def33224d855282bcaf6f566
+    m_Address: Assets/_prefabs/SpawnablePrefabs/SM_Env_Artifact_AlienRuin_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PrefabToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87b30cdbbdd6bc74185ffa23b7bfea5a
+    m_Address: Assets/_prefabs/SpawnablePrefabs/SM_Env_Artifact_AlienRuin_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PrefabToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a946e8994c9bd344aba123c9e30be99f
+    m_Address: Assets/_prefabs/SpawnablePrefabs/SM_Env_Artifact_AlienRuin_09.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PrefabToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5bcd19bd8e5e7e4f9df0509e5a2abec
+    m_Address: Assets/_prefabs/SpawnablePrefabs/SM_Env_Artifact_AlienRuin_06.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PrefabToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d685b7527f0252442bb888c19f88806e
+    m_Address: Assets/_prefabs/SpawnablePrefabs/SM_Env_Artifact_AlienRuin_05.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PrefabToSpawn
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e00526faaeb5c624998badb5ee8ee65f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d9599bd3b937a0b4e8205bb21c9a41f4, type: 2}
+    - {fileID: 11400000, guid: a32acfdacf3c6eb4686564d85533b8e7, type: 2}
